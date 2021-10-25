@@ -1,16 +1,13 @@
 // cppAssignment1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Nedim Basic
+//24th of October, 2021
+//Assignment 1
 
 #include <iostream>
 
-void MyFunc(void) {
-    std::cout << "This is a line\n";
-}
 
 int main()
 {
-    MyFunc();
-
     //display the welcome message
     std::cout << "Welcome to Nedim's program\n";
     std::cout << "Convert a large number of seconds into hours, minutes, and seconds\n\n";
